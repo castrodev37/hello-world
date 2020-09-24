@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hello GitHub</title>
+  <style>
+    body{
+      box-sizing: border-box;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+<script>
+  const stacks = `My studies on: JavaScript, NodeJS, Express, Ruby on Rails, JAVA(maybe...rs)`; 
+  let index = 0;
+  function writeStacks(){
+   document.body.innerText = stacks.slice(0, index);
+   index++;
+   if(index > stacks.length - 1) index = 0;
+  };
+  setInterval(writeStacks, 100);
+</script>
+</body>
+</html>
