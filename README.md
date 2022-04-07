@@ -13,3 +13,65 @@ Add: pull request and commit
 * [Calcular Preço do Item da Lista](#Calcular-Preço-do-Item-da-Lista)
 * [Incluir Variável Preço de Custo](#Incluir-Variável-Preço-de-Custo)
 * [Exibir Preço Final](#Exibir-Preço-Final)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Listar Preços Dinamicamente]
+bla, bla
