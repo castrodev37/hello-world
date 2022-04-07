@@ -9,7 +9,7 @@ Gestor de equipes há 10 anos, como supervisor e coordenador, no ramo de call ce
 
 Add: pull request and commit
 
-* [Listar Preços Dinamicamente](#Listar-Preços-Dinamicamente)
+* [Listar Preços Dinamicamente](#Listar-Preços-Dinamicamente.md)
 * [Calcular Preço do Item da Lista](#Calcular-Preço-do-Item-da-Lista)
 * [Incluir Variável Preço de Custo](#Incluir-Variável-Preço-de-Custo)
 * [Exibir Preço Final](#Exibir-Preço-Final)
@@ -106,5 +106,5 @@ asasasa
 
 
 
-[Listar Preços Dinamicamente](#Listar-Preços-Dinamicamente)
+Listar Preços Dinamicamente
 bla, bla
