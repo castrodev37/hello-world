@@ -15,6 +15,51 @@ Add: pull request and commit
 * [Exibir Preço Final](#Exibir-Preço-Final)
 
 
+dadada
+ddadada
+dadad
+
+
+
+
+
+
+dadadada
+dadadad
+
+
+
+
+
+
+
+
+
+dadadadad
+dadaada
+
+
+
+
+
+
+
+
+
+dadadada
+dadadadada
+
+
+saadasa
+
+
+
+sasasasa
+
+
+sasasasa
+sasas
+aasasa
 
 
 
@@ -31,21 +76,9 @@ Add: pull request and commit
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+sasasasas
+asasas
+asasasa
 
 
 
